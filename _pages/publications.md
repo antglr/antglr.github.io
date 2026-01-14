@@ -1,8 +1,8 @@
 ---
 layout: page
 permalink: /publications/
-title: publications
-description: List of Peer-Reviewed publications.
+title: Selected Publications
+description: Following I am listing only journal peer-reviewed publications.
 nav: true
 nav_order: 1
 ---
