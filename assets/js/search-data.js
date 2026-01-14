@@ -391,16 +391,14 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather.html";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
+            },},{id: "news-realization-of-this-page-a-long-lasting-idea",
+          title: 'Realization of this page – a long lasting idea!',
           description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
+          section: "News",},{id: "news-awards-extraordinary-service-award-by-cern-be-department",
+          title: 'Awards: ”Extraordinary Service Award” by CERN-BE department',
           description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2.html";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+          section: "News",},{id: "news-invited-innovative-pitch-at-the-frpt2025-conference",
+          title: 'Invited Innovative pitch at the FRPT2025   conference.',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
