@@ -4,7 +4,6 @@ permalink: /publications/
 title: Selected Publications
 description: Following I am listing only journal peer-reviewed publications.
 nav: true
-icon: "🚀"
 nav_order: 1
 ---
 
