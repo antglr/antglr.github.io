@@ -395,7 +395,7 @@ ninja.data = [{
           title: 'Realization of this page – a long lasting idea!',
           description: "",
           section: "News",},{id: "news-awards-extraordinary-service-award-by-cern-be-department",
-          title: 'Awards: ”Extraordinary Service Award” by CERN-BE department',
+          title: 'Awards: ”Extraordinary Service Award” by CERN-BE  department',
           description: "",
           section: "News",},{id: "news-invited-innovative-pitch-at-the-frpt2025-conference",
           title: 'Invited Innovative pitch at the FRPT2025   conference.',
