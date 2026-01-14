@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Awards: ”Extraordinary Service Award” by <a href='https://be-dep-ea.web.cern.ch'>CERN-BE department</a> 
+Awards: ”Extraordinary Service Award” by <a href='https://be-dep-ea.web.cern.ch'>CERN-BE </a> department 
