@@ -4,7 +4,7 @@ title: Flatener
 description: ML approach for flattening the beam
 img: assets/img/Flattener.png
 importance: 1
-category: work-related,
+category: Work
 related_publications: true
 ---
 
