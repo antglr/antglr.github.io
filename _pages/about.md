@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: <a href='https://home.cern'>CERN</a> -- <a href='https://clear.cern'>CLEAR</a>. Espl. des Particules 1, 1217 Genève
 
