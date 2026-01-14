@@ -4,7 +4,7 @@ title: Flatener
 description: ML approach for flattening the beam
 img: assets/img/Flattener.png
 importance: 1
-category: work
+category: work-related,
 related_publications: true
 ---
 
@@ -36,6 +36,5 @@ To systematize the tuning and reduce operator overhead, we train a machine-learn
     Actuall devices used
 </div>
 
-This work is ongoing <a href="https://getbootstrap.com/docs/4.4/layout/grid/">  GITLAB</a> and is currently being validated through iterative experimental campaigns. We are refining the feature set and model inversion strategy, expanding the training dataset to improve generalization across operating conditions, and assessing robustness to measurement noise and day-to-day machine drifts. The objective is to converge toward a reliable, operator-ready workflow for repeatable beam flattening with minimal tuning time.
+This work is ongoing and is currently being validated through iterative experimental campaigns. We are refining the feature set and model inversion strategy, expanding the training dataset to improve generalization across operating conditions, and assessing robustness to measurement noise and day-to-day machine drifts. The objective is to converge toward a reliable, operator-ready workflow for repeatable beam flattening with minimal tuning time.
 
-{% endraw %}
