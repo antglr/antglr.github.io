@@ -1,9 +1,53 @@
-"AJP":
-  url: https://aapt.scitation.org/journal/ajp
-  color: "#00369f"
 
 "PhysRev":
   url: https://journals.aps.org/
 
 "Vision":
   color: "#009f36"
+
+
+"AJP":
+  url: https://aapt.scitation.org/journal/ajp
+  color: "#1f77b4"
+"PhysRev":
+  url: https://journals.aps.org/
+  color: "#d62728"
+"Springer":
+  url: https://www.springer.com/
+  color: "#0f4c81"
+"Frontiers":
+  url: https://www.frontiersin.org/
+  color: "#2e7d32"
+"MDPI":
+  url: https://www.mdpi.com/
+  color: "#1565c0"
+"Elsevier":
+  url: https://www.elsevier.com/
+  color: "#6d4c41"
+"IEEE":
+  url: https://ieeexplore.ieee.org/
+  color: "#283593"
+"APS":
+  url: https://journals.aps.org/
+  color: "#512da8"
+"IOP":
+  url: https://iopscience.iop.org/
+  color: "#455a64"
+"Nature":
+  url: https://www.nature.com/
+  color: "#e91e63"
+"ACM":
+  url: https://dl.acm.org/
+  color: "#f57c00"
+"IEEE":
+  url: https://ieeexplore.ieee.org/
+  color: "#283593"
+"IUC":
+  url: https://www.iucr.org/
+  color: "#00796b"
+"Optics":
+  url: https://www.osapublishing.org/
+  color: "#c2185b"
+"Optica":
+  url: https://opg.optica.org/
+  color: "#ad1457"
