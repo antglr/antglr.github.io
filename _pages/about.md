@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='https://home.cern'>CERN</a> -- <a href='https://clear.cern'>CLEAR</a>. Espl. des Particules 1, 1217 Genève
+subtitle: <a href='https://home.cern'>CERN</a> -- Espl. des Particules 1, 1217 Genève
 
 profile:
   align: right
@@ -25,7 +25,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
  
-Hi there! I am an accelerator scientist at CERN, where I work as a Senior Fellow within the CLEAR facility (CERN Linear Electron Accelerator for Research). My work sits at the intersection of beam physics and operations: I support and deliver user experiments, maintain and optimize key beam diagnostics, and lead R&D on machine-learning-enabled accelerator optimization (predictive models and feedback strategies to improve stability and efficiency). 
+Hi there! I am an accelerator scientist at CERN, where I work as a Senior Fellow within the <a href='https://clear.cern'>CLEAR</a> facility (CERN Linear Electron Accelerator for Research). My work sits at the intersection of beam physics and operations: I support and deliver user experiments, maintain and optimize key beam diagnostics, and lead R&D on machine-learning-enabled accelerator optimization (predictive models and feedback strategies to improve stability and efficiency). 
 
 I earned a PhD in Information Technology (summa cum laude) from the University of Naples “Federico II” (2018–2021). My doctoral research focused on beam-based measurements in linear electron accelerators—specifically wakefield and bunch-length measurements using CLEAR as a case study—with a strong emphasis on beam dynamics, accelerator operations, and optimization. 
 
