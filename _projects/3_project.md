@@ -20,3 +20,6 @@ Design can be found attached and the logo was custom made by us!
 </div>
 <div class="caption">
    My two students (Sara Simonsson and Ondrej Franek) in the photo
+
+
+Link to the design here: [📄 CLEAR_hoodies.pdf](/assets/pdf/CLEAR_hoodies.pdf)
