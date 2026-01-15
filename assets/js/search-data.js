@@ -417,12 +417,12 @@ ninja.data = [{
               window.location.href = "/projects/3_project.html";
             },},{id: "projects-slb",
           title: 'SLB',
-          description: "another without an image",
+          description: "Stracture laser beam",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4_project.html";
-            },},{id: "projects-project-5",
-          title: 'project 5',
-          description: "a project with a background image",
+            },},{id: "projects-clear-2nd-beamline",
+          title: 'CLEAR 2nD beamline',
+          description: "Installation and deplyment of second beamline at CLEAR",
           section: "Projects",handler: () => {
               window.location.href = "/projects/5_project.html";
             },},{id: "projects-project-6",
