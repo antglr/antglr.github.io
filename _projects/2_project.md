@@ -2,7 +2,7 @@
 layout: page
 title: VesuvioNet
 description: An app for emergency endling in Naples
-img: assets/img/3.jpg
+img: assets/img/vesuvioNet.png
 importance: 2
 category: Fun
 giscus_comments: true

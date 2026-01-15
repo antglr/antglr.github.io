@@ -1,8 +1,8 @@
 ---
 layout: page
 title: SLB
-description: another without an image
-img:
+description: Stracture laser beam
+img: assets/img/slb.jpg
 importance: 3
 category: Work
 ---
