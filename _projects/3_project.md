@@ -22,4 +22,12 @@ Design can be found attached and the logo was custom made by us!
    My two students (Sara Simonsson and Ondrej Franek) in the photo
 
 
-Link to the design here: [📄 CLEAR_hoodies.pdf](/assets/pdf/CLEAR_hoodies.pdf)
+Link to the design here: 
+<div class="my-3">
+  <a class="btn btn-sm btn-outline-primary"
+     href="{{ '/assets/pdf/CLEAR_hoodies.pdf' | relative_url }}"
+     target="_blank" rel="noopener">
+    <i class="fas fa-file-pdf"></i> CLEAR hoodies design (PDF)
+  </a>
+</div>
+
