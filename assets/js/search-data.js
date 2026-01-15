@@ -410,8 +410,8 @@ ninja.data = [{
           description: "An app for emergency endling in Naples",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project.html";
-            },},{id: "projects-project-3-with-very-long-name",
-          title: 'project 3 with very long name',
+            },},{id: "projects-clear-hoodies",
+          title: 'CLEAR hoodies',
           description: "a project that redirects to another website",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project.html";
