@@ -2,7 +2,7 @@
 layout: page
 title: FuLichtenberg
 description: Made Lichtenberg figures using high charge delived by particle accelerator
-img:
+img: assets/img/Lichtenberg_logo.jpg
 importance: 4
 category: Fun
 ---

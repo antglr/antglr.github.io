@@ -2,7 +2,7 @@
 layout: page
 title: Futsal
 description: Capitain of a turnament winning team in the CERN futsal league
-img:
+img: assets/img/dynamo_logo.jpg
 importance: 4
 category: Fun
 ---
