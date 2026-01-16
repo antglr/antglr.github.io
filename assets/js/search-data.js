@@ -440,9 +440,9 @@ ninja.data = [{
           description: "Hands on lattice design - 2025",
           section: "Projects",handler: () => {
               window.location.href = "/projects/8_project.html";
-            },},{id: "projects-project-9",
-          title: 'project 9',
-          description: "another project with an image 🎉",
+            },},{id: "projects-3d-prinitng",
+          title: '3D prinitng',
+          description: "3D prinitng experience",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project.html";
             },},{
