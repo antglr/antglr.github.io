@@ -400,7 +400,12 @@ ninja.data = [{
           section: "News",},{id: "news-invited-innovative-pitch-at-the-frpt2025-conference",
           title: 'Invited Innovative pitch at the FRPT2025   conference.',
           description: "",
-          section: "News",},{id: "projects-flatener",
+          section: "News",},{id: "projects-custom-3d-printing",
+          title: 'Custom 3D printing',
+          description: "Custom 3D printing experience for medical application",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/10_project.html";
+            },},{id: "projects-flatener",
           title: 'Flatener',
           description: "ML approach for flattening the beam",
           section: "Projects",handler: () => {
