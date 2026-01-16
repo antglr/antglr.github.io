@@ -3,7 +3,7 @@ layout: page
 title: Custom 3D printing 
 description: Custom 3D printing experience for medical application
 img: 
-importance: 4
+importance: 1
 category: Work
 ---
 
