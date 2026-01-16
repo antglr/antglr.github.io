@@ -2,7 +2,7 @@
 layout: page
 title: 3D prinitng
 description: 3D prinitng experience 
-img: assets/img/3d.jpg
+img: assets/img/3d_logo.jpg
 importance: 4
 category: Work
 ---
