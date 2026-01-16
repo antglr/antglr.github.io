@@ -425,14 +425,14 @@ ninja.data = [{
           description: "Installation and deplyment of second beamline at CLEAR",
           section: "Projects",handler: () => {
               window.location.href = "/projects/5_project.html";
-            },},{id: "projects-project-6",
-          title: 'project 6',
-          description: "a project with no image",
+            },},{id: "projects-futsal",
+          title: 'Futsal',
+          description: "Capitain of a turnament winning team in the CERN futsal league",
           section: "Projects",handler: () => {
               window.location.href = "/projects/6_project.html";
-            },},{id: "projects-project-7",
-          title: 'project 7',
-          description: "with background image",
+            },},{id: "projects-fulichtenberg",
+          title: 'FuLichtenberg',
+          description: "Made Lichtenberg figures using high charge delived by particle accelerator",
           section: "Projects",handler: () => {
               window.location.href = "/projects/7_project.html";
             },},{id: "projects-project-8",
