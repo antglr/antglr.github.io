@@ -2,7 +2,7 @@
 layout: page
 title: Custom 3D printing 
 description: Custom 3D printing experience for medical application
-img: 
+img: assets/img/custom_logo.jpg
 importance: 1
 category: Work
 ---
