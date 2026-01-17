@@ -405,6 +405,11 @@ ninja.data = [{
           description: "Custom 3D printing experience for medical application",
           section: "Projects",handler: () => {
               window.location.href = "/projects/10_project.html";
+            },},{id: "projects-temperature-study",
+          title: 'Temperature study',
+          description: "Study of dissipation pad on CCD camera",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/11_project.html";
             },},{id: "projects-flatener",
           title: 'Flatener',
           description: "ML approach for flattening the beam",
