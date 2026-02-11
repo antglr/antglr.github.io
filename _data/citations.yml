@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-02-06'
+  last_updated: '2026-02-11'
 papers:
   z2ss1g0AAAAJ:-f6ydRqryjwC:
     citations: 11
@@ -102,7 +102,7 @@ papers:
     title: A user-friendly plug-and-play cyclic olefin copolymer-based microfluidic chip for room-temperature, fixed-target serial crystallography
     year: '2023'
   z2ss1g0AAAAJ:Se3iqnhoufwC:
-    citations: 209
+    citations: 210
     title: The challenge of ionisation chamber dosimetry in ultra-short pulsed high dose-rate Very High Energy Electron beams
     year: '2020'
   z2ss1g0AAAAJ:TFP_iSt0sucC:
@@ -117,6 +117,10 @@ papers:
     citations: 70
     title: Status of the CLEAR electron beam user facility at CERN
     year: '2019'
+  z2ss1g0AAAAJ:UxriW0iASnsC:
+    citations: 0
+    title: 'JACOW: The future of the CLEAR facility: consolidation, ongoing upgrades and its evolution towards future electron facilities at CERN'
+    year: '2025'
   z2ss1g0AAAAJ:YFjsv_pBGBYC:
     citations: 0
     title: 55-fs pulses from a spectrally combined fiber laser system via coherent spectral synthesis of two pulse shapers
@@ -142,7 +146,7 @@ papers:
     title: Analysis of the photoneutron field near the THz dump of the CLEAR accelerator at CERN with SEU measurements and simulations
     year: '2022'
   z2ss1g0AAAAJ:_kc_bZDykSQC:
-    citations: 88
+    citations: 89
     title: An experimental study of focused very high energy electron beams for radiotherapy
     year: '2021'
   z2ss1g0AAAAJ:_xSYboBqXhAC:
@@ -158,7 +162,7 @@ papers:
     title: Development and testing of a Cherenkov beam loss monitor in CLEAR Facility
     year: '2021'
   z2ss1g0AAAAJ:b0M2c_1WBrUC:
-    citations: 1
+    citations: 2
     title: Advanced beam tuning and beam measurements techniques in the CLEAR facility
     year: '2025'
   z2ss1g0AAAAJ:bEWYMUwI8FkC:
@@ -166,7 +170,7 @@ papers:
     title: Machine learning pattern recognition algorithm with applications to coherent laser combination
     year: '2022'
   z2ss1g0AAAAJ:bFI3QPDXJZMC:
-    citations: 1
+    citations: 2
     title: Beam energy forecasting using machine learning at the clear accelerator
     year: '2025'
   z2ss1g0AAAAJ:blknAaTinKkC:
@@ -270,7 +274,7 @@ papers:
     title: 'Radiochromic film dosimetry for VHEE and UHDR: protocol adaptation and verification at the CLEAR facility'
     year: '2025'
   z2ss1g0AAAAJ:yD5IFk8b50cC:
-    citations: 4
+    citations: 5
     title: 'JACOW: Medical activities in CLEAR: studies towards radiotherapy using Very High Energy Electrons (VHEE) in the FLASH regime'
     year: '2024'
   z2ss1g0AAAAJ:zYLM7Y9cAGgC:
