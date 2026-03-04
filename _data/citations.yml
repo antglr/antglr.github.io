@@ -1,8 +1,8 @@
 metadata:
-  last_updated: '2026-02-11'
+  last_updated: '2026-03-04'
 papers:
   z2ss1g0AAAAJ:-f6ydRqryjwC:
-    citations: 11
+    citations: 10
     title: Status of VHEE radiotherapy related studies at the CLEAR user facility at CERN
     year: '2021'
   z2ss1g0AAAAJ:1sJd4Hv_s6UC:
@@ -22,7 +22,7 @@ papers:
     title: 'JACOW: Operational improvements and upgrades of the CLEAR user facility'
     year: '2024'
   z2ss1g0AAAAJ:5nxA0vEk-isC:
-    citations: 10
+    citations: 9
     title: A measurement method based on RF deflector for particle bunch longitudinal parameters in linear accelerators
     year: '2020'
   z2ss1g0AAAAJ:8k81kl-MbHgC:
@@ -34,15 +34,15 @@ papers:
     title: Reducing parasitic resonances in particle accelerators components by broadband Higher Order Mode couplers
     year: '2018'
   z2ss1g0AAAAJ:BqipwSGYUEgC:
-    citations: 11
+    citations: 12
     title: Broadband spectral combining of three pulse-shaped fiber amplifiers with 42fs compressed pulse duration
     year: '2023'
   z2ss1g0AAAAJ:CHSYGLWDkRkC:
-    citations: 1
+    citations: 2
     title: Novel hollow core optical fibre-based radiation sensing technique for medical applications and extreme environments
     year: '2025'
   z2ss1g0AAAAJ:D03iK_w7-QYC:
-    citations: 3
+    citations: 4
     title: A systematic investigation of beam losses and position-reconstruction techniques measured with a novel oBLM at CLEAR
     year: '2025'
   z2ss1g0AAAAJ:EUQCXRtRnyEC:
@@ -50,19 +50,19 @@ papers:
     title: 'JACOW: First prototype measurements with an electro-optical bunch profile monitor for FCC-ee'
     year: '2025'
   z2ss1g0AAAAJ:JV2RwH3_ST0C:
-    citations: 4
-    title: Pulsed Electron Beam induced SEU Effects in a SRAM memory
+    citations: 5
+    title: Pulsed electron beam induced SEU effects in a SRAM memory
     year: '2021'
   z2ss1g0AAAAJ:J_g5lzvAfSwC:
     citations: 0
     title: Dosimetry for advanced radiotherapy approaches using particle beams with ultra-high pulse dose rates in the EMPIR UHDpulse project
     year: '2020'
   z2ss1g0AAAAJ:KxtntwgDAa4C:
-    citations: 15
+    citations: 16
     title: CLIC readiness report
     year: '2025'
   z2ss1g0AAAAJ:LkGwnXOMwfcC:
-    citations: 58
+    citations: 59
     title: 'The Compact Linear ee Collider (CLIC): Accelerator and Detector'
     year: '2018'
   z2ss1g0AAAAJ:M3NEmzRMIkIC:
@@ -71,7 +71,7 @@ papers:
     year: '2022'
   z2ss1g0AAAAJ:M3ejUd6NZC8C:
     citations: 9
-    title: A Beam Profile Monitor for High Energy Proton Beams Using Microfabrication Techniques
+    title: A beam profile monitor for high energy proton beams using microfabrication techniques
     year: '2020'
   z2ss1g0AAAAJ:MXK_kJrjxJIC:
     citations: 23
@@ -98,11 +98,15 @@ papers:
     title: Impact of Beam Collimation on Very High Energy Electron Radiotherapy Plans
     year: '2025'
   z2ss1g0AAAAJ:RGFaLdJalmkC:
-    citations: 14
+    citations: 16
     title: A user-friendly plug-and-play cyclic olefin copolymer-based microfluidic chip for room-temperature, fixed-target serial crystallography
     year: '2023'
+  z2ss1g0AAAAJ:SP6oXDckpogC:
+    citations: 1
+    title: An overview on quench detection techniques for high-temperature superconducting cables and magnets [roadmap for measurement and applications]
+    year: '2024'
   z2ss1g0AAAAJ:Se3iqnhoufwC:
-    citations: 210
+    citations: 213
     title: The challenge of ionisation chamber dosimetry in ultra-short pulsed high dose-rate Very High Energy Electron beams
     year: '2020'
   z2ss1g0AAAAJ:TFP_iSt0sucC:
@@ -110,17 +114,13 @@ papers:
     title: Diffractive combining and control of femtosecond pulse beam arrays
     year: '2022'
   z2ss1g0AAAAJ:ULOm3_A8WrAC:
-    citations: 71
+    citations: 74
     title: Evaluating very high energy electron RBE from nanodosimetric pBR322 plasmid DNA damage
     year: '2021'
   z2ss1g0AAAAJ:UeHWp8X0CEIC:
-    citations: 70
+    citations: 68
     title: Status of the CLEAR electron beam user facility at CERN
     year: '2019'
-  z2ss1g0AAAAJ:UxriW0iASnsC:
-    citations: 0
-    title: 'JACOW: The future of the CLEAR facility: consolidation, ongoing upgrades and its evolution towards future electron facilities at CERN'
-    year: '2025'
   z2ss1g0AAAAJ:YFjsv_pBGBYC:
     citations: 0
     title: 55-fs pulses from a spectrally combined fiber laser system via coherent spectral synthesis of two pulse shapers
@@ -131,10 +131,10 @@ papers:
     year: '2019'
   z2ss1g0AAAAJ:ZeXyd9-uunAC:
     citations: 7
-    title: Consolidation and future upgrades to the CLEAR user facility at CERN
+    title: Consolidation and Future Upgrades to the CLEAR User Facility at CERN
     year: '2021'
   z2ss1g0AAAAJ:Zph67rFs4hoC:
-    citations: 31
+    citations: 34
     title: SEU characterization of commercial and custom-designed SRAMs based on 90 nm technology and below
     year: '2020'
   z2ss1g0AAAAJ:_FxGoFyzp5QC:
@@ -146,7 +146,7 @@ papers:
     title: Analysis of the photoneutron field near the THz dump of the CLEAR accelerator at CERN with SEU measurements and simulations
     year: '2022'
   z2ss1g0AAAAJ:_kc_bZDykSQC:
-    citations: 89
+    citations: 87
     title: An experimental study of focused very high energy electron beams for radiotherapy
     year: '2021'
   z2ss1g0AAAAJ:_xSYboBqXhAC:
@@ -162,15 +162,15 @@ papers:
     title: Development and testing of a Cherenkov beam loss monitor in CLEAR Facility
     year: '2021'
   z2ss1g0AAAAJ:b0M2c_1WBrUC:
-    citations: 2
-    title: Advanced beam tuning and beam measurements techniques in the CLEAR facility
+    citations: 0
+    title: 'JACOW: Advanced beam tuning and beam measurements techniques in the CLEAR facility'
     year: '2025'
   z2ss1g0AAAAJ:bEWYMUwI8FkC:
-    citations: 16
+    citations: 18
     title: Machine learning pattern recognition algorithm with applications to coherent laser combination
     year: '2022'
   z2ss1g0AAAAJ:bFI3QPDXJZMC:
-    citations: 2
+    citations: 1
     title: Beam energy forecasting using machine learning at the clear accelerator
     year: '2025'
   z2ss1g0AAAAJ:blknAaTinKkC:
@@ -185,10 +185,6 @@ papers:
     citations: 13
     title: Active dosimetry for VHEE FLASH radiotherapy using beam profile monitors and charge measurements
     year: '2024'
-  z2ss1g0AAAAJ:dshw04ExmUIC:
-    citations: 0
-    title: 'JACOW: Advanced beam tuning and beam measurements techniques in the CLEAR facility'
-    year: '2025'
   z2ss1g0AAAAJ:e5wmG9Sq2KIC:
     citations: 0
     title: FLASH Modalities Track (Oral Presentations) CALORIMETRY FOR ULTRA-HIGH-DOSE-RATE VERY HIGH ENERGY ELECTRON BEAMS
@@ -199,22 +195,22 @@ papers:
     year: '2019'
   z2ss1g0AAAAJ:f2IySw72cVMC:
     citations: 0
-    title: 'The future of the CLEAR facility: consolidation, ongoing upgrades and its evolution towards future electron facilities at CERN'
-    year: Unknown Year
+    title: 'JACOW: The future of the CLEAR facility: consolidation, ongoing upgrades and its evolution towards future electron facilities at CERN'
+    year: '2025'
   z2ss1g0AAAAJ:hFOr9nPyWt4C:
     citations: 6
-    title: Beam position detection of a short electron bunch in presence of a longer and more intense proton bunch for the AWAKE experiment
+    title: Beam position detection of a short electron bunch in presence of a longer and more intense proton bunch for the AWAKE Experiment
     year: '2021'
   z2ss1g0AAAAJ:hMod-77fHWUC:
-    citations: 16
+    citations: 17
     title: Virtual-diagnostic-based time stamping for ultrafast electron diffraction
     year: '2023'
   z2ss1g0AAAAJ:hqOjcs7Dif8C:
-    citations: 20
+    citations: 19
     title: Enhancing particle bunch-length measurements based on radio frequency deflector by the use of focusing elements
     year: '2020'
   z2ss1g0AAAAJ:iH-uZ7U-co4C:
-    citations: 20
+    citations: 21
     title: Experimental beam combining stabilization using machine learning trained while phases drift
     year: '2022'
   z2ss1g0AAAAJ:isC4tDSrTZIC:
@@ -226,7 +222,7 @@ papers:
     title: Electron-Induced Upsets and Stuck Bits in SDRAMs in the Jovian Environment
     year: '2020'
   z2ss1g0AAAAJ:k_IJM867U9cC:
-    citations: 18
+    citations: 19
     title: Updates, status and experiments of CLEAR, the CERN linear electron accelerator for research
     year: '2022'
   z2ss1g0AAAAJ:lSLTfruPkqcC:
@@ -258,7 +254,7 @@ papers:
     title: Toward machine learning-based adaptive control and global feedback for compact accelerators
     year: '2022'
   z2ss1g0AAAAJ:roLk4NBRz8UC:
-    citations: 58
+    citations: 59
     title: 'The Compact Linear ee Collider (CLIC): Physics Potential'
     year: '2018'
   z2ss1g0AAAAJ:u_35RYKgDlwC:
@@ -278,6 +274,6 @@ papers:
     title: 'JACOW: Medical activities in CLEAR: studies towards radiotherapy using Very High Energy Electrons (VHEE) in the FLASH regime'
     year: '2024'
   z2ss1g0AAAAJ:zYLM7Y9cAGgC:
-    citations: 228
+    citations: 239
     title: The Compact Linear  Collider (CLIC)-2018 Summary Report
     year: '2018'
