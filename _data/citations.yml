@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-03-04'
+  last_updated: '2026-03-25'
 papers:
   z2ss1g0AAAAJ:-f6ydRqryjwC:
     citations: 10
@@ -58,7 +58,7 @@ papers:
     title: Dosimetry for advanced radiotherapy approaches using particle beams with ultra-high pulse dose rates in the EMPIR UHDpulse project
     year: '2020'
   z2ss1g0AAAAJ:KxtntwgDAa4C:
-    citations: 16
+    citations: 17
     title: CLIC readiness report
     year: '2025'
   z2ss1g0AAAAJ:LkGwnXOMwfcC:
@@ -106,7 +106,7 @@ papers:
     title: An overview on quench detection techniques for high-temperature superconducting cables and magnets [roadmap for measurement and applications]
     year: '2024'
   z2ss1g0AAAAJ:Se3iqnhoufwC:
-    citations: 213
+    citations: 214
     title: The challenge of ionisation chamber dosimetry in ultra-short pulsed high dose-rate Very High Energy Electron beams
     year: '2020'
   z2ss1g0AAAAJ:TFP_iSt0sucC:
@@ -114,7 +114,7 @@ papers:
     title: Diffractive combining and control of femtosecond pulse beam arrays
     year: '2022'
   z2ss1g0AAAAJ:ULOm3_A8WrAC:
-    citations: 74
+    citations: 75
     title: Evaluating very high energy electron RBE from nanodosimetric pBR322 plasmid DNA damage
     year: '2021'
   z2ss1g0AAAAJ:UeHWp8X0CEIC:
@@ -134,7 +134,7 @@ papers:
     title: Consolidation and Future Upgrades to the CLEAR User Facility at CERN
     year: '2021'
   z2ss1g0AAAAJ:Zph67rFs4hoC:
-    citations: 34
+    citations: 35
     title: SEU characterization of commercial and custom-designed SRAMs based on 90 nm technology and below
     year: '2020'
   z2ss1g0AAAAJ:_FxGoFyzp5QC:
@@ -182,7 +182,7 @@ papers:
     title: 'JACOW: Variable polarization self-locked streaking of electrons in time with a pair of corrugated structures'
     year: '2024'
   z2ss1g0AAAAJ:dfsIfKJdRG4C:
-    citations: 13
+    citations: 14
     title: Active dosimetry for VHEE FLASH radiotherapy using beam profile monitors and charge measurements
     year: '2024'
   z2ss1g0AAAAJ:e5wmG9Sq2KIC:
@@ -202,7 +202,7 @@ papers:
     title: Beam position detection of a short electron bunch in presence of a longer and more intense proton bunch for the AWAKE Experiment
     year: '2021'
   z2ss1g0AAAAJ:hMod-77fHWUC:
-    citations: 17
+    citations: 18
     title: Virtual-diagnostic-based time stamping for ultrafast electron diffraction
     year: '2023'
   z2ss1g0AAAAJ:hqOjcs7Dif8C:
