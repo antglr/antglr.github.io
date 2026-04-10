@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-04-06'
+  last_updated: '2026-04-10'
 papers:
   z2ss1g0AAAAJ:-f6ydRqryjwC:
     citations: 10
@@ -14,7 +14,7 @@ papers:
     title: Experimental analysis for the optimal choice of High-Order Modes couplers design parameters for resonance damping
     year: '2018'
   z2ss1g0AAAAJ:3fE2CSJIrl8C:
-    citations: 54
+    citations: 55
     title: VHEE beam dosimetry at CERN Linear Electron Accelerator for Research under ultra-high dose rate conditions
     year: '2021'
   z2ss1g0AAAAJ:4OULZ7Gr8RgC:
@@ -106,7 +106,7 @@ papers:
     title: An overview on quench detection techniques for high-temperature superconducting cables and magnets [roadmap for measurement and applications]
     year: '2024'
   z2ss1g0AAAAJ:Se3iqnhoufwC:
-    citations: 214
+    citations: 216
     title: The challenge of ionisation chamber dosimetry in ultra-short pulsed high dose-rate Very High Energy Electron beams
     year: '2020'
   z2ss1g0AAAAJ:TFP_iSt0sucC:
