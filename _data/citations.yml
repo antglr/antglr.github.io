@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-04-15'
+  last_updated: '2026-04-29'
 papers:
   z2ss1g0AAAAJ:-f6ydRqryjwC:
     citations: 10
@@ -14,7 +14,7 @@ papers:
     title: Experimental analysis for the optimal choice of High-Order Modes couplers design parameters for resonance damping
     year: '2018'
   z2ss1g0AAAAJ:3fE2CSJIrl8C:
-    citations: 55
+    citations: 57
     title: VHEE beam dosimetry at CERN Linear Electron Accelerator for Research under ultra-high dose rate conditions
     year: '2021'
   z2ss1g0AAAAJ:4OULZ7Gr8RgC:
@@ -93,6 +93,10 @@ papers:
     citations: 1
     title: Analysis of powering and quench protection of the SIGRUM superconducting combined-function dipole magnet
     year: '2023'
+  z2ss1g0AAAAJ:OU6Ihb5iCvQC:
+    citations: 0
+    title: Monte Carlo and film dosimetry study of collimator effects on penumbra and out-of-field dose for very high-energy electrons
+    year: '2026'
   z2ss1g0AAAAJ:P5F9QuxV20EC:
     citations: 0
     title: Impact of Beam Collimation on Very High Energy Electron Radiotherapy Plans
@@ -106,7 +110,7 @@ papers:
     title: An overview on quench detection techniques for high-temperature superconducting cables and magnets [roadmap for measurement and applications]
     year: '2024'
   z2ss1g0AAAAJ:Se3iqnhoufwC:
-    citations: 217
+    citations: 218
     title: The challenge of ionisation chamber dosimetry in ultra-short pulsed high dose-rate Very High Energy Electron beams
     year: '2020'
   z2ss1g0AAAAJ:TFP_iSt0sucC:
@@ -114,7 +118,7 @@ papers:
     title: Diffractive combining and control of femtosecond pulse beam arrays
     year: '2022'
   z2ss1g0AAAAJ:ULOm3_A8WrAC:
-    citations: 77
+    citations: 78
     title: Evaluating very high energy electron RBE from nanodosimetric pBR322 plasmid DNA damage
     year: '2021'
   z2ss1g0AAAAJ:UeHWp8X0CEIC:
@@ -138,7 +142,7 @@ papers:
     title: SEU characterization of commercial and custom-designed SRAMs based on 90 nm technology and below
     year: '2020'
   z2ss1g0AAAAJ:_FxGoFyzp5QC:
-    citations: 64
+    citations: 65
     title: Noninvasive bunch length measurements exploiting Cherenkov diffraction radiation
     year: '2020'
   z2ss1g0AAAAJ:_Qo2XoVZTnwC:
@@ -274,6 +278,6 @@ papers:
     title: 'JACOW: Medical activities in CLEAR: studies towards radiotherapy using Very High Energy Electrons (VHEE) in the FLASH regime'
     year: '2024'
   z2ss1g0AAAAJ:zYLM7Y9cAGgC:
-    citations: 240
+    citations: 241
     title: The Compact Linear  Collider (CLIC)-2018 Summary Report
     year: '2018'
