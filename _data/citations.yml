@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-04-29'
+  last_updated: '2026-05-15'
 papers:
   z2ss1g0AAAAJ:-f6ydRqryjwC:
     citations: 10
@@ -50,7 +50,7 @@ papers:
     title: 'JACOW: First prototype measurements with an electro-optical bunch profile monitor for FCC-ee'
     year: '2025'
   z2ss1g0AAAAJ:JV2RwH3_ST0C:
-    citations: 5
+    citations: 6
     title: Pulsed electron beam induced SEU effects in a SRAM memory
     year: '2021'
   z2ss1g0AAAAJ:J_g5lzvAfSwC:
@@ -62,7 +62,7 @@ papers:
     title: CLIC readiness report
     year: '2025'
   z2ss1g0AAAAJ:LkGwnXOMwfcC:
-    citations: 59
+    citations: 60
     title: 'The Compact Linear ee Collider (CLIC): Accelerator and Detector'
     year: '2018'
   z2ss1g0AAAAJ:M3NEmzRMIkIC:
@@ -110,7 +110,7 @@ papers:
     title: An overview on quench detection techniques for high-temperature superconducting cables and magnets [roadmap for measurement and applications]
     year: '2024'
   z2ss1g0AAAAJ:Se3iqnhoufwC:
-    citations: 218
+    citations: 220
     title: The challenge of ionisation chamber dosimetry in ultra-short pulsed high dose-rate Very High Energy Electron beams
     year: '2020'
   z2ss1g0AAAAJ:TFP_iSt0sucC:
@@ -142,7 +142,7 @@ papers:
     title: SEU characterization of commercial and custom-designed SRAMs based on 90 nm technology and below
     year: '2020'
   z2ss1g0AAAAJ:_FxGoFyzp5QC:
-    citations: 65
+    citations: 66
     title: Noninvasive bunch length measurements exploiting Cherenkov diffraction radiation
     year: '2020'
   z2ss1g0AAAAJ:_Qo2XoVZTnwC:
@@ -170,7 +170,7 @@ papers:
     title: 'JACOW: Advanced beam tuning and beam measurements techniques in the CLEAR facility'
     year: '2025'
   z2ss1g0AAAAJ:bEWYMUwI8FkC:
-    citations: 19
+    citations: 21
     title: Machine learning pattern recognition algorithm with applications to coherent laser combination
     year: '2022'
   z2ss1g0AAAAJ:bFI3QPDXJZMC:
@@ -210,11 +210,11 @@ papers:
     title: Virtual-diagnostic-based time stamping for ultrafast electron diffraction
     year: '2023'
   z2ss1g0AAAAJ:hqOjcs7Dif8C:
-    citations: 19
+    citations: 20
     title: Enhancing particle bunch-length measurements based on radio frequency deflector by the use of focusing elements
     year: '2020'
   z2ss1g0AAAAJ:iH-uZ7U-co4C:
-    citations: 21
+    citations: 23
     title: Experimental beam combining stabilization using machine learning trained while phases drift
     year: '2022'
   z2ss1g0AAAAJ:isC4tDSrTZIC:
@@ -278,6 +278,6 @@ papers:
     title: 'JACOW: Medical activities in CLEAR: studies towards radiotherapy using Very High Energy Electrons (VHEE) in the FLASH regime'
     year: '2024'
   z2ss1g0AAAAJ:zYLM7Y9cAGgC:
-    citations: 241
+    citations: 244
     title: The Compact Linear  Collider (CLIC)-2018 Summary Report
     year: '2018'
