@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-06-08'
+  last_updated: '2026-06-19'
 papers:
   z2ss1g0AAAAJ:-f6ydRqryjwC:
     citations: 10
@@ -14,7 +14,7 @@ papers:
     title: Experimental analysis for the optimal choice of High-Order Modes couplers design parameters for resonance damping
     year: '2018'
   z2ss1g0AAAAJ:3fE2CSJIrl8C:
-    citations: 57
+    citations: 58
     title: VHEE beam dosimetry at CERN Linear Electron Accelerator for Research under ultra-high dose rate conditions
     year: '2021'
   z2ss1g0AAAAJ:4OULZ7Gr8RgC:
@@ -58,7 +58,7 @@ papers:
     title: Dosimetry for advanced radiotherapy approaches using particle beams with ultra-high pulse dose rates in the EMPIR UHDpulse project
     year: '2020'
   z2ss1g0AAAAJ:KxtntwgDAa4C:
-    citations: 24
+    citations: 25
     title: CLIC readiness report
     year: '2025'
   z2ss1g0AAAAJ:LkGwnXOMwfcC:
@@ -102,7 +102,7 @@ papers:
     title: Impact of Beam Collimation on Very High Energy Electron Radiotherapy Plans
     year: '2025'
   z2ss1g0AAAAJ:RGFaLdJalmkC:
-    citations: 16
+    citations: 17
     title: A user-friendly plug-and-play cyclic olefin copolymer-based microfluidic chip for room-temperature, fixed-target serial crystallography
     year: '2023'
   z2ss1g0AAAAJ:SP6oXDckpogC:
@@ -122,7 +122,7 @@ papers:
     title: Evaluating very high energy electron RBE from nanodosimetric pBR322 plasmid DNA damage
     year: '2021'
   z2ss1g0AAAAJ:UeHWp8X0CEIC:
-    citations: 68
+    citations: 69
     title: Status of the CLEAR electron beam user facility at CERN
     year: '2019'
   z2ss1g0AAAAJ:YFjsv_pBGBYC:
@@ -138,7 +138,7 @@ papers:
     title: Consolidation and Future Upgrades to the CLEAR User Facility at CERN
     year: '2021'
   z2ss1g0AAAAJ:Zph67rFs4hoC:
-    citations: 36
+    citations: 37
     title: SEU characterization of commercial and custom-designed SRAMs based on 90 nm technology and below
     year: '2020'
   z2ss1g0AAAAJ:_FxGoFyzp5QC:
@@ -282,10 +282,10 @@ papers:
     title: 'Radiochromic film dosimetry for VHEE and UHDR: protocol adaptation and verification at the CLEAR facility'
     year: '2025'
   z2ss1g0AAAAJ:yD5IFk8b50cC:
-    citations: 5
+    citations: 6
     title: 'JACOW: Medical activities in CLEAR: studies towards radiotherapy using Very High Energy Electrons (VHEE) in the FLASH regime'
     year: '2024'
   z2ss1g0AAAAJ:zYLM7Y9cAGgC:
-    citations: 245
+    citations: 247
     title: The Compact Linear  Collider (CLIC)-2018 Summary Report
     year: '2018'
