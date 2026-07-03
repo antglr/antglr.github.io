@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-06-22'
+  last_updated: '2026-07-03'
 papers:
   z2ss1g0AAAAJ:-f6ydRqryjwC:
     citations: 10
@@ -74,7 +74,7 @@ papers:
     title: A beam profile monitor for high energy proton beams using microfabrication techniques
     year: '2020'
   z2ss1g0AAAAJ:MXK_kJrjxJIC:
-    citations: 23
+    citations: 24
     title: Challenges in dosimetry of particle beams with ultra-high pulse dose rates
     year: '2020'
   z2ss1g0AAAAJ:NMxIlDl6LWMC:
@@ -110,7 +110,7 @@ papers:
     title: An overview on quench detection techniques for high-temperature superconducting cables and magnets [roadmap for measurement and applications]
     year: '2024'
   z2ss1g0AAAAJ:Se3iqnhoufwC:
-    citations: 222
+    citations: 224
     title: The challenge of ionisation chamber dosimetry in ultra-short pulsed high dose-rate Very High Energy Electron beams
     year: '2020'
   z2ss1g0AAAAJ:TFP_iSt0sucC:
@@ -142,7 +142,7 @@ papers:
     title: SEU characterization of commercial and custom-designed SRAMs based on 90 nm technology and below
     year: '2020'
   z2ss1g0AAAAJ:_FxGoFyzp5QC:
-    citations: 66
+    citations: 67
     title: Noninvasive bunch length measurements exploiting Cherenkov diffraction radiation
     year: '2020'
   z2ss1g0AAAAJ:_Qo2XoVZTnwC:
@@ -239,7 +239,7 @@ papers:
     year: '2021'
   z2ss1g0AAAAJ:p2g8aNsByqUC:
     citations: 0
-    title: LOCALIZED RESPONSE BASIS FOR DATA-EFFICIENT TRANSVERSE BEAM DISTRIBUTION RECONSTRUCTION USING A MULTIMODE FIBER RELAY
+    title: Localized Response Basis for Data-Efficient Transverse Beam Distribution Reconstruction Using a Multimode Fiber Relay
     year: Unknown Year
   z2ss1g0AAAAJ:pyW8ca7W8N0C:
     citations: 0
@@ -278,7 +278,7 @@ papers:
     title: A new proposal for damping the resonances in CERN accelerators, using HOM couplers
     year: '2017'
   z2ss1g0AAAAJ:xtRiw3GOFMkC:
-    citations: 3
+    citations: 4
     title: 'Radiochromic film dosimetry for VHEE and UHDR: protocol adaptation and verification at the CLEAR facility'
     year: '2025'
   z2ss1g0AAAAJ:yD5IFk8b50cC:
@@ -286,6 +286,6 @@ papers:
     title: 'JACOW: Medical activities in CLEAR: studies towards radiotherapy using Very High Energy Electrons (VHEE) in the FLASH regime'
     year: '2024'
   z2ss1g0AAAAJ:zYLM7Y9cAGgC:
-    citations: 248
+    citations: 250
     title: The Compact Linear  Collider (CLIC)-2018 Summary Report
     year: '2018'
