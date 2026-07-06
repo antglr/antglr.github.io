@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-07-03'
+  last_updated: '2026-07-06'
 papers:
   z2ss1g0AAAAJ:-f6ydRqryjwC:
     citations: 10
@@ -58,11 +58,11 @@ papers:
     title: Dosimetry for advanced radiotherapy approaches using particle beams with ultra-high pulse dose rates in the EMPIR UHDpulse project
     year: '2020'
   z2ss1g0AAAAJ:KxtntwgDAa4C:
-    citations: 25
+    citations: 24
     title: CLIC readiness report
     year: '2025'
   z2ss1g0AAAAJ:LkGwnXOMwfcC:
-    citations: 60
+    citations: 61
     title: 'The Compact Linear ee Collider (CLIC): Accelerator and Detector'
     year: '2018'
   z2ss1g0AAAAJ:M3NEmzRMIkIC:
@@ -110,7 +110,7 @@ papers:
     title: An overview on quench detection techniques for high-temperature superconducting cables and magnets [roadmap for measurement and applications]
     year: '2024'
   z2ss1g0AAAAJ:Se3iqnhoufwC:
-    citations: 224
+    citations: 225
     title: The challenge of ionisation chamber dosimetry in ultra-short pulsed high dose-rate Very High Energy Electron beams
     year: '2020'
   z2ss1g0AAAAJ:TFP_iSt0sucC:
@@ -150,7 +150,7 @@ papers:
     title: Analysis of the photoneutron field near the THz dump of the CLEAR accelerator at CERN with SEU measurements and simulations
     year: '2022'
   z2ss1g0AAAAJ:_kc_bZDykSQC:
-    citations: 88
+    citations: 89
     title: An experimental study of focused very high energy electron beams for radiotherapy
     year: '2021'
   z2ss1g0AAAAJ:_xSYboBqXhAC:
