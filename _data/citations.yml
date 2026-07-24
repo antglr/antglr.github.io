@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-07-08'
+  last_updated: '2026-07-24'
 papers:
   z2ss1g0AAAAJ:-f6ydRqryjwC:
     citations: 10
@@ -14,7 +14,7 @@ papers:
     title: Experimental analysis for the optimal choice of High-Order Modes couplers design parameters for resonance damping
     year: '2018'
   z2ss1g0AAAAJ:3fE2CSJIrl8C:
-    citations: 58
+    citations: 59
     title: VHEE beam dosimetry at CERN Linear Electron Accelerator for Research under ultra-high dose rate conditions
     year: '2021'
   z2ss1g0AAAAJ:4OULZ7Gr8RgC:
@@ -34,7 +34,7 @@ papers:
     title: Reducing parasitic resonances in particle accelerators components by broadband Higher Order Mode couplers
     year: '2018'
   z2ss1g0AAAAJ:BqipwSGYUEgC:
-    citations: 12
+    citations: 14
     title: Broadband spectral combining of three pulse-shaped fiber amplifiers with 42fs compressed pulse duration
     year: '2023'
   z2ss1g0AAAAJ:CHSYGLWDkRkC:
@@ -58,11 +58,11 @@ papers:
     title: Dosimetry for advanced radiotherapy approaches using particle beams with ultra-high pulse dose rates in the EMPIR UHDpulse project
     year: '2020'
   z2ss1g0AAAAJ:KxtntwgDAa4C:
-    citations: 24
+    citations: 25
     title: CLIC readiness report
     year: '2025'
   z2ss1g0AAAAJ:LkGwnXOMwfcC:
-    citations: 61
+    citations: 62
     title: 'The Compact Linear ee Collider (CLIC): Accelerator and Detector'
     year: '2018'
   z2ss1g0AAAAJ:M3NEmzRMIkIC:
@@ -110,7 +110,7 @@ papers:
     title: An overview on quench detection techniques for high-temperature superconducting cables and magnets [roadmap for measurement and applications]
     year: '2024'
   z2ss1g0AAAAJ:Se3iqnhoufwC:
-    citations: 226
+    citations: 229
     title: The challenge of ionisation chamber dosimetry in ultra-short pulsed high dose-rate Very High Energy Electron beams
     year: '2020'
   z2ss1g0AAAAJ:TFP_iSt0sucC:
@@ -118,11 +118,11 @@ papers:
     title: Diffractive combining and control of femtosecond pulse beam arrays
     year: '2022'
   z2ss1g0AAAAJ:ULOm3_A8WrAC:
-    citations: 81
+    citations: 82
     title: Evaluating very high energy electron RBE from nanodosimetric pBR322 plasmid DNA damage
     year: '2021'
   z2ss1g0AAAAJ:UeHWp8X0CEIC:
-    citations: 69
+    citations: 70
     title: Status of the CLEAR electron beam user facility at CERN
     year: '2019'
   z2ss1g0AAAAJ:YFjsv_pBGBYC:
@@ -150,7 +150,7 @@ papers:
     title: Analysis of the photoneutron field near the THz dump of the CLEAR accelerator at CERN with SEU measurements and simulations
     year: '2022'
   z2ss1g0AAAAJ:_kc_bZDykSQC:
-    citations: 89
+    citations: 90
     title: An experimental study of focused very high energy electron beams for radiotherapy
     year: '2021'
   z2ss1g0AAAAJ:_xSYboBqXhAC:
@@ -226,7 +226,7 @@ papers:
     title: Electron-Induced Upsets and Stuck Bits in SDRAMs in the Jovian Environment
     year: '2020'
   z2ss1g0AAAAJ:k_IJM867U9cC:
-    citations: 19
+    citations: 20
     title: Updates, status and experiments of CLEAR, the CERN linear electron accelerator for research
     year: '2022'
   z2ss1g0AAAAJ:lSLTfruPkqcC:
@@ -286,6 +286,6 @@ papers:
     title: 'JACOW: Medical activities in CLEAR: studies towards radiotherapy using Very High Energy Electrons (VHEE) in the FLASH regime'
     year: '2024'
   z2ss1g0AAAAJ:zYLM7Y9cAGgC:
-    citations: 250
+    citations: 253
     title: The Compact Linear  Collider (CLIC)-2018 Summary Report
     year: '2018'
