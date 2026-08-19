@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-08-10'
+  last_updated: '2026-08-19'
 papers:
   z2ss1g0AAAAJ:-f6ydRqryjwC:
     citations: 11
@@ -34,7 +34,7 @@ papers:
     title: Reducing parasitic resonances in particle accelerators components by broadband Higher Order Mode couplers
     year: '2018'
   z2ss1g0AAAAJ:BqipwSGYUEgC:
-    citations: 14
+    citations: 15
     title: Broadband spectral combining of three pulse-shaped fiber amplifiers with 42fs compressed pulse duration
     year: '2023'
   z2ss1g0AAAAJ:CHSYGLWDkRkC:
@@ -42,7 +42,7 @@ papers:
     title: Novel hollow core optical fibre-based radiation sensing technique for medical applications and extreme environments
     year: '2025'
   z2ss1g0AAAAJ:D03iK_w7-QYC:
-    citations: 3
+    citations: 5
     title: A systematic investigation of beam losses and position-reconstruction techniques measured with a novel oBLM at CLEAR
     year: '2025'
   z2ss1g0AAAAJ:EUQCXRtRnyEC:
@@ -58,7 +58,7 @@ papers:
     title: Dosimetry for advanced radiotherapy approaches using particle beams with ultra-high pulse dose rates in the EMPIR UHDpulse project
     year: '2020'
   z2ss1g0AAAAJ:KxtntwgDAa4C:
-    citations: 25
+    citations: 26
     title: 'Springer: CLIC readiness report'
     year: '2025'
   z2ss1g0AAAAJ:LkGwnXOMwfcC:
@@ -74,7 +74,7 @@ papers:
     title: A beam profile monitor for high energy proton beams using microfabrication techniques
     year: '2020'
   z2ss1g0AAAAJ:MXK_kJrjxJIC:
-    citations: 23
+    citations: 24
     title: Challenges in dosimetry of particle beams with ultra-high pulse dose rates
     year: '2020'
   z2ss1g0AAAAJ:NMxIlDl6LWMC:
@@ -110,7 +110,7 @@ papers:
     title: An overview on quench detection techniques for high-temperature superconducting cables and magnets [roadmap for measurement and applications]
     year: '2024'
   z2ss1g0AAAAJ:Se3iqnhoufwC:
-    citations: 230
+    citations: 232
     title: The challenge of ionisation chamber dosimetry in ultra-short pulsed high dose-rate Very High Energy Electron beams
     year: '2020'
   z2ss1g0AAAAJ:TFP_iSt0sucC:
@@ -142,7 +142,7 @@ papers:
     title: SEU characterization of commercial and custom-designed SRAMs based on 90 nm technology and below
     year: '2020'
   z2ss1g0AAAAJ:_FxGoFyzp5QC:
-    citations: 70
+    citations: 71
     title: Noninvasive bunch length measurements exploiting Cherenkov diffraction radiation
     year: '2020'
   z2ss1g0AAAAJ:_Qo2XoVZTnwC:
@@ -210,11 +210,11 @@ papers:
     title: Virtual-diagnostic-based time stamping for ultrafast electron diffraction
     year: '2023'
   z2ss1g0AAAAJ:hqOjcs7Dif8C:
-    citations: 20
+    citations: 21
     title: Enhancing particle bunch-length measurements based on radio frequency deflector by the use of focusing elements
     year: '2020'
   z2ss1g0AAAAJ:iH-uZ7U-co4C:
-    citations: 24
+    citations: 25
     title: Experimental beam combining stabilization using machine learning trained while phases drift
     year: '2022'
   z2ss1g0AAAAJ:isC4tDSrTZIC:
@@ -286,6 +286,6 @@ papers:
     title: 'JACOW: Medical activities in CLEAR: studies towards radiotherapy using Very High Energy Electrons (VHEE) in the FLASH regime'
     year: '2024'
   z2ss1g0AAAAJ:zYLM7Y9cAGgC:
-    citations: 257
+    citations: 259
     title: The Compact Linear  Collider (CLIC)-2018 Summary Report
     year: '2018'
