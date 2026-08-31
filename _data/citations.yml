@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-08-19'
+  last_updated: '2026-08-31'
 papers:
   z2ss1g0AAAAJ:-f6ydRqryjwC:
     citations: 11
@@ -38,11 +38,11 @@ papers:
     title: Broadband spectral combining of three pulse-shaped fiber amplifiers with 42fs compressed pulse duration
     year: '2023'
   z2ss1g0AAAAJ:CHSYGLWDkRkC:
-    citations: 2
+    citations: 3
     title: Novel hollow core optical fibre-based radiation sensing technique for medical applications and extreme environments
     year: '2025'
   z2ss1g0AAAAJ:D03iK_w7-QYC:
-    citations: 5
+    citations: 6
     title: A systematic investigation of beam losses and position-reconstruction techniques measured with a novel oBLM at CLEAR
     year: '2025'
   z2ss1g0AAAAJ:EUQCXRtRnyEC:
@@ -110,13 +110,17 @@ papers:
     title: An overview on quench detection techniques for high-temperature superconducting cables and magnets [roadmap for measurement and applications]
     year: '2024'
   z2ss1g0AAAAJ:Se3iqnhoufwC:
-    citations: 232
+    citations: 233
     title: The challenge of ionisation chamber dosimetry in ultra-short pulsed high dose-rate Very High Energy Electron beams
     year: '2020'
   z2ss1g0AAAAJ:TFP_iSt0sucC:
     citations: 0
     title: Diffractive combining and control of femtosecond pulse beam arrays
     year: '2022'
+  z2ss1g0AAAAJ:Tiz5es2fbqcC:
+    citations: 0
+    title: Demonstration of hollow core optical fibre-based radiation sensing technique with a 200MeV bunched electron beam
+    year: '2026'
   z2ss1g0AAAAJ:ULOm3_A8WrAC:
     citations: 83
     title: Evaluating very high energy electron RBE from nanodosimetric pBR322 plasmid DNA damage
@@ -125,6 +129,10 @@ papers:
     citations: 70
     title: Status of the CLEAR electron beam user facility at CERN
     year: '2019'
+  z2ss1g0AAAAJ:WbkHhVStYXYC:
+    citations: 2
+    title: Advanced beam tuning and beam measurements techniques in the CLEAR facility
+    year: '2025'
   z2ss1g0AAAAJ:XiSMed-E-HIC:
     citations: 0
     title: Feasibility Study of Beam Loss Energy Estimation with an Optical Fibre-Based Detector
@@ -150,7 +158,7 @@ papers:
     title: Analysis of the photoneutron field near the THz dump of the CLEAR accelerator at CERN with SEU measurements and simulations
     year: '2022'
   z2ss1g0AAAAJ:_kc_bZDykSQC:
-    citations: 92
+    citations: 93
     title: An experimental study of focused very high energy electron beams for radiotherapy
     year: '2021'
   z2ss1g0AAAAJ:_xSYboBqXhAC:
