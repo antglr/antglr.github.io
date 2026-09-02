@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-08-31'
+  last_updated: '2026-09-02'
 papers:
   z2ss1g0AAAAJ:-f6ydRqryjwC:
     citations: 11
@@ -74,7 +74,7 @@ papers:
     title: A beam profile monitor for high energy proton beams using microfabrication techniques
     year: '2020'
   z2ss1g0AAAAJ:MXK_kJrjxJIC:
-    citations: 24
+    citations: 25
     title: Challenges in dosimetry of particle beams with ultra-high pulse dose rates
     year: '2020'
   z2ss1g0AAAAJ:NMxIlDl6LWMC:
@@ -110,7 +110,7 @@ papers:
     title: An overview on quench detection techniques for high-temperature superconducting cables and magnets [roadmap for measurement and applications]
     year: '2024'
   z2ss1g0AAAAJ:Se3iqnhoufwC:
-    citations: 233
+    citations: 234
     title: The challenge of ionisation chamber dosimetry in ultra-short pulsed high dose-rate Very High Energy Electron beams
     year: '2020'
   z2ss1g0AAAAJ:TFP_iSt0sucC:
